@@ -2,7 +2,7 @@
 
 **`Estudande de Engenharia da Computação`**
 
-Me chamo Nicolas Moreira, tenho 18 anos, sou natural de Ribeirão Preto - SP. Concluí o ensino médio no Sistema Educacional Brasileiro (SEB). Atualmente, estou cursando Engenharia da Computação na Universidade de Ribeirão Preto UNAERP. 
+Eu me chamo Nicolas Moreira, tenho 18 anos, sou natural de Ribeirão Preto - SP. Concluí o ensino médio no Sistema Educacional Brasileiro (SEB). Atualmente, estou cursando Engenharia da Computação na Universidade de Ribeirão Preto UNAERP. 
 Possuo experiência acadêmica no desenvolvimento de algoritmos simples, incluindo estruturas condicionais e de repetição, aplicados na resolução de problemas práticos. Atualmente tenho grande interesse pelo desenvolvimento de softwares, com foco no aprimoramento contínuo de minhas habilidades em programação.
 <p align="left">
     <a href="https://github.com/NicolasIgMoreira?tab=repositories&sort=stargazers">
